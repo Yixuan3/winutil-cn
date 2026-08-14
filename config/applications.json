@@ -1,6 +1,6 @@
-{
+﻿{
     "1password": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "1password",
         "content": "1Password",
         "description": "1Password is a password manager that allows you to store and manage your passwords securely.",
@@ -9,7 +9,7 @@
         "foss": false
     },
     "7zip": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "7zip",
         "content": "7-Zip",
         "description": "7-Zip is a free and open-source file archiver utility. It supports several compression formats and provides a high compression ratio, making it a popular choice for file compression.",
@@ -18,7 +18,7 @@
         "foss": true
     },
     "adobe": {
-        "category": "Document",
+        "category": "文档",
         "choco": "adobereader",
         "content": "Adobe Acrobat Reader",
         "description": "Adobe Acrobat Reader is a free PDF viewer with essential features for viewing, printing, and annotating PDF documents.",
@@ -27,7 +27,7 @@
         "foss": false
     },
     "advancedip": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "advanced-ip-scanner",
         "content": "Advanced IP Scanner",
         "description": "Advanced IP Scanner is a fast and easy-to-use network scanner. It is designed to analyze LAN networks and provides information about connected devices.",
@@ -36,7 +36,7 @@
         "foss": false
     },
     "aimp": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "aimp",
         "content": "AIMP (Music Player)",
         "description": "AIMP is a feature-rich music player with support for various audio formats, playlists, and customizable user interface.",
@@ -45,7 +45,7 @@
         "foss": false
     },
    "angryipscanner": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "angryip",
         "content": "Angry IP Scanner",
         "description": "Angry IP Scanner is an open-source and cross-platform network scanner. It is used to scan IP addresses and ports, providing information about network connectivity.",
@@ -54,7 +54,7 @@
         "foss": true
     },
     "anydesk": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "anydesk",
         "content": "AnyDesk",
         "description": "AnyDesk is a remote desktop software that enables users to access and control computers remotely. It is known for its fast connection and low latency.",
@@ -63,7 +63,7 @@
         "foss": false
     },
     "audacity": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "audacity",
         "content": "Audacity",
         "description": "Audacity is a free and open-source audio editing software known for its powerful recording and editing capabilities.",
@@ -72,7 +72,7 @@
         "foss": true
     },
     "autoruns": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "autoruns",
         "content": "Autoruns",
         "description": "This utility shows you what programs are configured to run during system bootup or login.",
@@ -81,7 +81,7 @@
         "foss": false
     },
     "rdcman": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "rdcman",
         "content": "RDCMan",
         "description": "RDCMan manages multiple remote desktop connections. It is useful for managing server labs where you need regular access to each machine such as automated checkin systems and data centers.",
@@ -90,7 +90,7 @@
         "foss": false
     },
     "autohotkey": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "autohotkey",
         "content": "AutoHotkey",
         "description": "AutoHotkey is a scripting language for Windows that allows users to create custom automation scripts and macros. It is often used for automating repetitive tasks and customizing keyboard shortcuts.",
@@ -99,7 +99,7 @@
         "foss": true
     },
     "bitwarden": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "bitwarden",
         "content": "Bitwarden",
         "description": "Bitwarden is an open-source password management solution. It allows users to store and manage their passwords in a secure and encrypted vault, accessible across multiple devices.",
@@ -108,7 +108,7 @@
         "foss": true
     },
     "blender": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "blender",
         "content": "Blender (3D Graphics)",
         "description": "Blender is a powerful open-source 3D creation suite, offering modeling, sculpting, animation, and rendering tools.",
@@ -117,7 +117,7 @@
         "foss": true
     },
     "brave": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "brave",
         "content": "Brave",
         "description": "Brave is a privacy-focused web browser that blocks ads and trackers, offering a faster and safer browsing experience.",
@@ -126,7 +126,7 @@
         "foss": true
     },
     "bruno": {
-        "category": "Development",
+        "category": "开发",
         "choco": "bruno",
         "content": "Bruno",
         "description": "Bruno is a local-first API client that stores collections as plain text files for version control and collaboration.",
@@ -135,7 +135,7 @@
         "foss": true
     },
     "bulkcrapuninstaller": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "bulk-crap-uninstaller",
         "content": "Bulk Crap Uninstaller",
         "description": "Bulk Crap Uninstaller is a free and open-source uninstaller utility for Windows. It helps users remove unwanted programs and clean up their system by uninstalling multiple applications at once.",
@@ -144,7 +144,7 @@
         "foss": true
     },
     "blurautoclicker": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "na",
         "content": "BlurAutoClicker",
         "description": "An Auto-clicker with a few advanced features and generally better performance than popular alternatives.",
@@ -153,7 +153,7 @@
         "foss": true
     },
     "calibre": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "calibre",
         "content": "Calibre",
         "description": "Calibre is a powerful and easy-to-use e-book manager, viewer, and converter.",
@@ -162,7 +162,7 @@
         "foss": true
     },
     "cemu": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "cemu",
         "content": "Cemu",
         "description": "Cemu is a highly experimental software to emulate Wii U applications on PC.",
@@ -171,7 +171,7 @@
         "foss": true
     },
     "chatgpt": {
-        "category": "Development",
+        "category": "开发",
         "choco": "na",
         "content": "ChatGPT Desktop",
         "description": "The official ChatGPT desktop app for Windows, distributed through the Microsoft Store.",
@@ -180,7 +180,7 @@
         "foss": false
     },
     "chatterino": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "chatterino",
         "content": "Chatterino",
         "description": "Chatterino is a chat client for Twitch chat that offers a clean and customizable interface for a better streaming experience.",
@@ -189,7 +189,7 @@
         "foss": true
     },
     "chrome": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "googlechrome",
         "content": "Chrome",
         "description": "Google Chrome is a widely used web browser known for its speed, simplicity, and seamless integration with Google services.",
@@ -198,7 +198,7 @@
         "foss": false
     },
     "chromium": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "chromium",
         "content": "Chromium",
         "description": "Chromium is the open-source project that serves as the foundation for various web browsers, including Chrome.",
@@ -207,7 +207,7 @@
         "foss": true
     },
     "cinebenchr23": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "na",
         "content": "Cinebench R23",
         "description": "Cinebench R23 is a benchmark tool for comparing CPU rendering performance across systems.",
@@ -216,7 +216,7 @@
         "foss": false
     },
     "claude": {
-        "category": "Development",
+        "category": "开发",
         "choco": "claude",
         "content": "Claude Desktop",
         "description": "Anthropic's Claude desktop application for focused AI-assisted work and chat.",
@@ -225,7 +225,7 @@
         "foss": false
     },
     "claude-code": {
-        "category": "Development",
+        "category": "开发",
         "choco": "claude-code",
         "content": "Claude Code",
         "description": "Anthropic's agentic coding tool for terminal and IDE development workflows.",
@@ -234,7 +234,7 @@
         "foss": false
     },
     "cmake": {
-        "category": "Development",
+        "category": "开发",
         "choco": "cmake",
         "content": "CMake",
         "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software.",
@@ -243,7 +243,7 @@
         "foss": true
     },
     "codex": {
-        "category": "Development",
+        "category": "开发",
         "choco": "codex",
         "content": "Codex",
         "description": "Codex CLI is an OpenAI coding agent that runs locally in your terminal.",
@@ -252,7 +252,7 @@
         "foss": true
     },
     "cpuz": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "cpu-z",
         "content": "CPU-Z",
         "description": "CPU-Z is a system monitoring and diagnostic tool for Windows. It provides detailed information about the computer's hardware components, including the CPU, memory, and motherboard.",
@@ -261,7 +261,7 @@
         "foss": false
     },
     "crystaldiskinfo": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "crystaldiskinfo",
         "content": "Crystal Disk Info",
         "description": "Crystal Disk Info is a disk health monitoring tool that provides information about the status and performance of hard drives. It helps users anticipate potential issues and monitor drive health.",
@@ -270,7 +270,7 @@
         "foss": true
     },
     "crystaldiskmark": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "crystaldiskmark",
         "content": "Crystal Disk Mark",
         "description": "Crystal Disk Mark is a disk benchmarking tool that measures the read and write speeds of storage devices. It helps users assess the performance of their hard drives and SSDs.",
@@ -279,7 +279,7 @@
         "foss": true
     },
     "cursor": {
-        "category": "Development",
+        "category": "开发",
         "choco": "cursoride",
         "content": "Cursor",
         "description": "AI-powered code editor (VS Code-based) with agentic coding features and integrated AI assistance for development workflows.",
@@ -288,7 +288,7 @@
         "foss": false
     },
     "ddu": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "ddu",
         "content": "Display Driver Uninstaller",
         "description": "Display Driver Uninstaller (DDU) is a tool for completely uninstalling graphics drivers from NVIDIA, AMD, and Intel. It is useful for troubleshooting graphics driver-related issues.",
@@ -297,7 +297,7 @@
         "foss": true
     },
     "discord": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "discord",
         "content": "Discord",
         "description": "Discord is a popular communication platform with voice, video, and text chat, designed for gamers but used by a wide range of communities.",
@@ -306,7 +306,7 @@
         "foss": false
     },
     "dismtools": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "dismtools",
         "content": "DISMTools",
         "description": "DISMTools is a fast, customizable GUI for the DISM utility, supporting Windows images from Windows 7 onward. It handles installations on any drive, offers project support, and lets users tweak settings like color modes, language, and DISM versions; powered by both native DISM and a managed DISM API.",
@@ -315,7 +315,7 @@
         "foss": true
     },
     "ntlite": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "ntlite-free",
         "content": "NTLite",
         "description": "Integrate updates, drivers, automate Windows and application setup, speedup Windows deployment process and have it all set for the next time.",
@@ -324,7 +324,7 @@
         "foss": false
     },
     "dorion": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "dorion",
         "content": "Dorion",
         "description": "Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!",
@@ -333,7 +333,7 @@
         "foss": true
     },
     "dockerdesktop": {
-        "category": "Development",
+        "category": "开发",
         "choco": "docker-desktop",
         "content": "Docker Desktop",
         "description": "Docker Desktop provides a local environment for building, running, and testing containerized applications on Windows.",
@@ -342,7 +342,7 @@
         "foss": false
     },
     "dotnet6": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "dotnet-6.0-runtime",
         "content": ".NET Desktop Runtime 6",
         "description": ".NET Desktop Runtime 6 is a runtime environment required for running applications developed with .NET 6.",
@@ -351,7 +351,7 @@
         "foss": true
     },
     "dotnet8": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "dotnet-8.0-runtime",
         "content": ".NET Desktop Runtime 8",
         "description": ".NET Desktop Runtime 8 is a runtime environment required for running applications developed with .NET 8.",
@@ -360,7 +360,7 @@
         "foss": true
     },
     "dotnet9": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "dotnet-9.0-runtime",
         "content": ".NET Desktop Runtime 9",
         "description": ".NET Desktop Runtime 9 is a runtime environment required for running applications developed with .NET 9.",
@@ -369,7 +369,7 @@
         "foss": true
     },
     "dotnet10": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "dotnet-10.0-runtime",
         "content": ".NET Desktop Runtime 10",
         "description": ".NET Desktop Runtime 10 is a runtime environment required for running applications developed with .NET 10.",
@@ -378,7 +378,7 @@
         "foss": true
     },
     "dropbox": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "dropbox",
         "content": "Dropbox",
         "description": "Dropbox is a cloud storage client for syncing files, sharing content, and keeping documents available across devices.",
@@ -387,7 +387,7 @@
         "foss": false
     },
     "eaapp": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "ea-app",
         "content": "EA App",
         "description": "EA App is a platform for accessing and playing Electronic Arts games.",
@@ -396,7 +396,7 @@
         "foss": false
     },
     "eartrumpet": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "eartrumpet",
         "content": "EarTrumpet (Audio)",
         "description": "EarTrumpet is an audio control app for Windows, providing a simple and intuitive interface for managing sound settings.",
@@ -405,7 +405,7 @@
         "foss": true
     },
     "edge": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "microsoft-edge",
         "content": "Edge",
         "description": "Microsoft Edge is a modern web browser built on Chromium, offering performance, security, and integration with Microsoft services.",
@@ -414,7 +414,7 @@
         "foss": false
     },
     "enteauth": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "ente-auth",
         "content": "Ente Auth",
         "description": "Ente Auth is a free, cross-platform, end-to-end encrypted authenticator app.",
@@ -423,7 +423,7 @@
         "foss": true
     },
     "epicgames": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "epicgameslauncher",
         "content": "Epic Games Launcher",
         "description": "Epic Games Launcher is the client for accessing and playing games from the Epic Games Store.",
@@ -432,7 +432,7 @@
         "foss": false
     },
     "files": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "files",
         "content": "Files",
         "description": "Alternative file explorer.",
@@ -441,7 +441,7 @@
         "foss": true
     },
     "firefox": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "firefox",
         "content": "Firefox",
         "description": "Mozilla Firefox is an open-source web browser known for its customization options, privacy features, and extensions.",
@@ -450,7 +450,7 @@
         "foss": true
     },
     "firefoxesr": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "FirefoxESR",
         "content": "Firefox ESR",
         "description": "Mozilla Firefox is an open-source web browser known for its customization options, privacy features, and extensions. Firefox ESR (Extended Support Release) receives major updates every 42 weeks with minor updates such as crash fixes, security fixes and policy updates as needed, but at least every four weeks.",
@@ -459,7 +459,7 @@
         "foss": true
     },
     "floorp": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "floorp",
         "content": "Floorp",
         "description": "Floorp is an open-source web browser project that aims to provide a simple and fast browsing experience.",
@@ -468,7 +468,7 @@
         "foss": true
     },
     "flux": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "flux",
         "content": "F.lux",
         "description": "f.lux adjusts the color temperature of your screen to reduce eye strain during nighttime use.",
@@ -477,7 +477,7 @@
         "foss": false
     },
     "foobar": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "foobar2000",
         "content": "foobar2000 (Music Player)",
         "description": "foobar2000 is a highly customizable and extensible music player for Windows, known for its modular design and advanced features.",
@@ -486,7 +486,7 @@
         "foss": false
     },
     "fnm": {
-        "category": "Development",
+        "category": "开发",
         "choco": "fnm",
         "content": "Fast Node Manager",
         "description": "Fast Node Manager (fnm) is a fast, cross-platform tool for installing and switching between Node.js versions.",
@@ -495,7 +495,7 @@
         "foss": true
     },
     "foxpdfreader": {
-        "category": "Document",
+        "category": "文档",
         "choco": "foxitreader",
         "content": "Foxit PDF Reader",
         "description": "Foxit PDF Reader is a free PDF viewer with a familiar ribbon-style interface.",
@@ -504,7 +504,7 @@
         "foss": false
     },
     "geforcenow": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "nvidia-geforce-now",
         "content": "GeForce NOW",
         "description": "GeForce NOW is a cloud gaming service that allows you to play high-quality PC games on your device.",
@@ -513,7 +513,7 @@
         "foss": false
     },
     "gimp": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "gimp",
         "content": "GIMP (Image Editor)",
         "description": "GIMP is a versatile open-source raster graphics editor used for tasks such as photo retouching, image editing, and image composition.",
@@ -522,7 +522,7 @@
         "foss": true
     },
     "git": {
-        "category": "Development",
+        "category": "开发",
         "choco": "git",
         "content": "Git",
         "description": "Git is a distributed version control system widely used for tracking changes in source code during software development.",
@@ -531,7 +531,7 @@
         "foss": true
     },
     "gitextensions": {
-        "category": "Development",
+        "category": "开发",
         "choco": "gitextensions",
         "content": "Git Extensions",
         "description": "Git Extensions is a graphical Git client for Windows with repository, history, and commit management tools.",
@@ -540,7 +540,7 @@
         "foss": true
     },
     "githubcli": {
-        "category": "Development",
+        "category": "开发",
         "choco": "gh",
         "content": "GitHub CLI",
         "description": "GitHub CLI brings pull requests, issues, releases, and other GitHub workflows to the terminal.",
@@ -549,7 +549,7 @@
         "foss": true
     },
     "githubdesktop": {
-        "category": "Development",
+        "category": "开发",
         "choco": "git;github-desktop",
         "content": "GitHub Desktop",
         "description": "GitHub Desktop is a visual Git client that simplifies collaboration on GitHub repositories with an easy-to-use interface.",
@@ -558,7 +558,7 @@
         "foss": true
     },
     "gog": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "goggalaxy",
         "content": "GOG Galaxy",
         "description": "GOG Galaxy is a gaming client that offers DRM-free games, additional content, and more.",
@@ -567,7 +567,7 @@
         "foss": false
     },
     "golang": {
-        "category": "Development",
+        "category": "开发",
         "choco": "golang",
         "content": "Go",
         "description": "Go (or Golang) is a statically typed, compiled programming language designed for simplicity, reliability, and efficiency.",
@@ -576,7 +576,7 @@
         "foss": true
     },
     "googledrive": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "googledrive",
         "content": "Google Drive",
         "description": "File syncing across devices all tied to your Google account.",
@@ -585,7 +585,7 @@
         "foss": false
     },
     "gpuz": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "gpu-z",
         "content": "GPU-Z",
         "description": "GPU-Z provides detailed information about your graphics card and GPU.",
@@ -594,7 +594,7 @@
         "foss": false
     },
     "gsudo": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "gsudo",
         "content": "gsudo",
         "description": "gsudo is a sudo equivalent for Windows. It allows you to run commands with elevated administrative privileges directly within the current console window.",
@@ -603,7 +603,7 @@
         "foss": true
     },
     "helium": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "helium",
         "content": "Helium",
         "description": "Private, fast, and honest web browser.",
@@ -612,7 +612,7 @@
         "foss": true
     },
     "hugo": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "hugo-extended",
         "content": "Hugo",
         "description": "The world's fastest framework for building websites.",
@@ -621,7 +621,7 @@
         "foss": true
     },
     "handbrake": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "handbrake",
         "content": "HandBrake",
         "description": "HandBrake is an open-source video transcoder, allowing you to convert video from nearly any format to a selection of widely supported codecs.",
@@ -630,7 +630,7 @@
         "foss": true
     },
     "heroiclauncher": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "heroic-games-launcher",
         "content": "Heroic Games Launcher",
         "description": "Heroic Games Launcher is an open-source alternative game launcher for Epic Games Store.",
@@ -639,7 +639,7 @@
         "foss": true
     },
     "hwinfo": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "hwinfo",
         "content": "HWiNFO",
         "description": "HWiNFO provides comprehensive hardware information and diagnostics for Windows.",
@@ -648,7 +648,7 @@
         "foss": false
     },
     "hwmonitor": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "hwmonitor",
         "content": "HWMonitor",
         "description": "HWMonitor is a hardware monitoring program that reads PC systems main health sensors.",
@@ -657,7 +657,7 @@
         "foss": false
     },
     "imageglass": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "imageglass",
         "content": "ImageGlass (Image Viewer)",
         "description": "ImageGlass is a versatile image viewer with support for various image formats and a focus on simplicity and speed.",
@@ -666,7 +666,7 @@
         "foss": true
     },
     "internetdownloadmanager": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "internet-download-manager",
         "content": "Internet Download Manager",
         "description": "Internet Download Manager is a download manager for accelerating, resuming, and scheduling file downloads.",
@@ -675,7 +675,7 @@
         "foss": false
     },
     "irfanview": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "irfanview",
         "content": "IrfanView",
         "description": "IrfanView is a lightweight, fast, and free image viewer and editor. Supports multiple formats, batch processing, and powerful plugins.",
@@ -684,7 +684,7 @@
         "foss": false
     },
     "itch": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "itch",
         "content": "Itch.io",
         "description": "Itch.io is a digital distribution platform for indie games and creative projects.",
@@ -693,7 +693,7 @@
         "foss": true
     },
     "itunes": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "itunes",
         "content": "iTunes",
         "description": "iTunes is a media player, media library, and online radio broadcaster application developed by Apple Inc.",
@@ -702,7 +702,7 @@
         "foss": false
     },
     "java8": {
-        "category": "Development",
+        "category": "开发",
         "choco": "corretto8jdk",
         "content": "Amazon Corretto 8 (LTS)",
         "description": "Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).",
@@ -710,8 +710,17 @@
         "winget": "Amazon.Corretto.8.JDK",
         "foss": true
     },
+    "java17": {
+        "category": "开发",
+        "choco": "temurin17jdk",
+        "content": "OpenJDK 17 (LTS)",
+        "description": "Eclipse Temurin 17 (LTS) is a popular, no-cost OpenJDK distribution widely used in enterprise Java development.",
+        "link": "https://adoptium.net/",
+        "winget": "EclipseAdoptium.Temurin.17.JDK",
+        "foss": true
+    },
     "java21": {
-        "category": "Development",
+        "category": "开发",
         "choco": "corretto21jdk",
         "content": "Amazon Corretto 21 (LTS)",
         "description": "Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).",
@@ -719,8 +728,17 @@
         "winget": "Amazon.Corretto.21.JDK",
         "foss": true
     },
+    "maven": {
+        "category": "开发",
+        "choco": "maven",
+        "content": "Apache Maven",
+        "description": "Apache Maven is a build automation and dependency management tool used primarily for Java projects.",
+        "link": "https://maven.apache.org/",
+        "winget": "Apache.Maven",
+        "foss": true
+    },
     "java25": {
-        "category": "Development",
+        "category": "开发",
         "choco": "corretto25jdk",
         "content": "Amazon Corretto 25 (LTS)",
         "description": "Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).",
@@ -729,7 +747,7 @@
         "foss": true
     },
     "jellyfinmediaplayer": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "jellyfin-media-player",
         "content": "Jellyfin Media Player",
         "description": "Jellyfin Media Player is a client application for the Jellyfin media server, providing access to your media library.",
@@ -738,7 +756,7 @@
         "foss": true
     },
     "jellyfinserver": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "jellyfin",
         "content": "Jellyfin Server",
         "description": "Jellyfin Server is an open-source media server software, allowing you to organize and stream your media library.",
@@ -747,7 +765,7 @@
         "foss": true
     },
     "jetbrains": {
-        "category": "Development",
+        "category": "开发",
         "choco": "jetbrainstoolbox",
         "content": "Jetbrains Toolbox",
         "description": "Jetbrains Toolbox is a platform for easy installation and management of JetBrains developer tools.",
@@ -756,7 +774,7 @@
         "foss": false
     },
     "jpegview": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "jpegview",
         "content": "JPEG View",
         "description": "JPEGView is a lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF, JXL, HEIC, HEIF, AVIF, and TIFF images with a minimal GUI.",
@@ -765,7 +783,7 @@
         "foss": true
     },
     "joplin": {
-        "category": "Document",
+        "category": "文档",
         "choco": "joplin",
         "content": "Joplin",
         "description": "Joplin is an open-source note-taking and to-do application with synchronization capabilities.",
@@ -774,7 +792,7 @@
         "foss": true
     },
     "keepassxc": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "keepassxc",
         "content": "KeePassXC",
         "description": "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information. You can run KeePassXC on Windows, macOS, and Linux systems. KeePassXC is for people with extremely high demands of secure personal data management. It saves many different types of information, such as usernames, passwords, URLs, attachments, and notes in an offline, encrypted file that can be stored in any location, including private and public cloud solutions. For easy identification and management, user-defined titles and icons can be specified for entries. In addition, entries are sorted into customizable groups. An integrated search function allows you to use advanced patterns to easily find any entry in your database. A customizable, fast, and easy-to-use password generator utility allows you to create passwords with any combination of characters or easy to remember passphrases.",
@@ -783,7 +801,7 @@
         "foss": true
     },
     "klite": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "k-litecodecpack-standard",
         "content": "K-Lite Codec Standard",
         "description": "K-Lite Codec Pack Standard is a collection of audio and video codecs and related tools, providing essential components for media playback.",
@@ -792,7 +810,7 @@
         "foss": false
     },
     "kodi": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "kodi",
         "content": "Kodi Media Center",
         "description": "Kodi is an open-source media center application that allows you to play and view most videos, music, podcasts, and other digital media files.",
@@ -801,7 +819,7 @@
         "foss": true
     },
     "lazygit": {
-        "category": "Development",
+        "category": "开发",
         "choco": "lazygit",
         "content": "Lazygit",
         "description": "Simple terminal UI for git commands.",
@@ -810,7 +828,7 @@
         "foss": true
     },
     "libreoffice": {
-        "category": "Document",
+        "category": "文档",
         "choco": "libreoffice-fresh",
         "content": "LibreOffice",
         "description": "LibreOffice is a powerful and free office suite, compatible with other major office suites.",
@@ -819,7 +837,7 @@
         "foss": true
     },
     "librewolf": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "librewolf",
         "content": "LibreWolf",
         "description": "LibreWolf is a privacy-focused web browser based on Firefox, with additional privacy and security enhancements.",
@@ -828,7 +846,7 @@
         "foss": true
     },
     "localsend": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "localsend.install",
         "content": "LocalSend",
         "description": "An open-source cross-platform alternative to AirDrop.",
@@ -837,7 +855,7 @@
         "foss": true
     },
     "mpc-qt": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "mediainfo",
         "content": "mpc-qt",
         "description": "Media Player Classic Qute Theater",
@@ -846,7 +864,7 @@
         "foss": true
     },
     "mpv": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "content": "mpv",
         "description": "mpv is a free, open source, and cross-platform media player supporting a wide variety of media formats, codecs, and subtitle types.",
         "link": "https://mpv.io/",
@@ -854,7 +872,7 @@
         "foss": true
     },
     "matrix": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "element-desktop",
         "content": "Element",
         "description": "Element is a client for Matrix; an open network for secure, decentralized communication.",
@@ -863,7 +881,7 @@
         "foss": true
     },
     "minitoolpartitionwizard": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "minitoolpartitionwizard",
         "content": "MiniTool Partition Wizard",
         "description": "Comprehensive free partition manager that performs advanced operations Windows natively cannot, such as merging partitions, converting file systems, and organizing disk capacity.",
@@ -872,7 +890,7 @@
         "foss": false
     },
     "modrinth": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "modrinth-app",
         "content": "Modrinth App",
         "description": "Modrinth App is a desktop application for managing Minecraft mods and modpacks.",
@@ -881,7 +899,7 @@
         "foss": true
     },
     "moonlight": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "moonlight-qt",
         "content": "Moonlight/GameStream Client",
         "description": "Moonlight/GameStream Client allows you to stream PC games to other devices over your local network.",
@@ -890,7 +908,7 @@
         "foss": true
     },
     "mpchc": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "mpc-hc-clsid2",
         "content": "Media Player Classic - Home Cinema",
         "description": "Media Player Classic - Home Cinema (MPC-HC) is a free and open-source video and audio player for Windows. MPC-HC is based on the original Guliverkli project and contains many additional features and bug fixes.",
@@ -899,7 +917,7 @@
         "foss": true
     },
     "msedgeredirect": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "msedgeredirect",
         "content": "MSEdgeRedirect",
         "description": "A Tool to Redirect News, Search, Widgets, Weather, and More to your default browser.",
@@ -908,7 +926,7 @@
         "foss": true
     },
     "msiafterburner": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "msiafterburner",
         "content": "MSI Afterburner",
         "description": "MSI Afterburner is a graphics card overclocking utility with advanced features.",
@@ -917,7 +935,7 @@
         "foss": false
     },
     "mullvadvpn": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "mullvad-app",
         "content": "Mullvad VPN",
         "description": "This is the VPN client software for the Mullvad VPN service.",
@@ -926,7 +944,7 @@
         "foss": true
     },
     "mullvadbrowser": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "na",
         "content": "Mullvad Browser",
         "description": "Mullvad Browser is a privacy-focused web browser, developed in partnership with the Tor Project.",
@@ -935,7 +953,7 @@
         "foss": true
     },
     "nomacs": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "nomacs",
         "content": "nomacs",
         "description": "nomacs is a free, open-source image viewer, which supports multiple platforms. You can use it for viewing all common image formats, including RAW and .psd images.",
@@ -944,7 +962,7 @@
         "foss": true
     },
     "nanazip": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "nanazip",
         "content": "NanaZip",
         "description": "NanaZip is a fast and efficient file compression and decompression tool.",
@@ -953,7 +971,7 @@
         "foss": true
     },
     "netbird": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "netbird",
         "content": "NetBird",
         "description": "NetBird is an open-source alternative comparable to TailScale that can be connected to a self-hosted server.",
@@ -962,7 +980,7 @@
         "foss": true
     },
     "naps2": {
-        "category": "Document",
+        "category": "文档",
         "choco": "naps2",
         "content": "NAPS2 (Scanner)",
         "description": "NAPS2 is a document scanning application that simplifies the process of creating electronic documents.",
@@ -971,7 +989,7 @@
         "foss": true
     },
     "neovim": {
-        "category": "Development",
+        "category": "开发",
         "choco": "neovim",
         "content": "Neovim",
         "description": "Neovim is a highly extensible text editor and an improvement over the original Vim editor.",
@@ -980,7 +998,7 @@
         "foss": true
     },
     "nextclouddesktop": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "nextcloud-client",
         "content": "Nextcloud Desktop",
         "description": "Nextcloud Desktop is the official desktop client for the Nextcloud file synchronization and sharing platform.",
@@ -989,7 +1007,7 @@
         "foss": true
     },
     "nmap": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "nmap",
         "content": "Nmap",
         "description": "Nmap (Network Mapper) is an open-source tool for network exploration and security auditing. It discovers devices on a network and provides information about their ports and services.",
@@ -998,7 +1016,7 @@
         "foss": true
     },
     "nodejs": {
-        "category": "Development",
+        "category": "开发",
         "choco": "nodejs",
         "content": "NodeJS",
         "description": "NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine for building server-side and networking applications.",
@@ -1007,7 +1025,7 @@
         "foss": true
     },
     "nodejslts": {
-        "category": "Development",
+        "category": "开发",
         "choco": "nodejs-lts",
         "content": "NodeJS LTS",
         "description": "NodeJS LTS provides Long-Term Support releases for stable and reliable server-side JavaScript development.",
@@ -1016,7 +1034,7 @@
         "foss": true
     },
     "pnpm": {
-    "category": "Development",
+    "category": "开发",
     "content": "pnpm",
     "description": "pnpm is a fast and disk space efficient package manager for JavaScript and Node.js applications.",
     "link": "https://pnpm.io/",
@@ -1024,7 +1042,7 @@
     "foss": true
     },
     "notepadplus": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "notepadplusplus",
         "content": "Notepad++",
         "description": "Notepad++ is a free, open-source code editor and Notepad replacement with support for multiple languages.",
@@ -1033,7 +1051,7 @@
         "foss": true
     },
     "nuget": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "nuget.commandline",
         "content": "NuGet",
         "description": "NuGet is a package manager for the .NET framework, enabling developers to manage and share libraries in their .NET applications.",
@@ -1042,7 +1060,7 @@
         "foss": true
     },
     "nvclean": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "na",
         "content": "NVCleanstall",
         "description": "NVCleanstall is a tool designed to customize NVIDIA driver installations, allowing advanced users to control more aspects of the installation process.",
@@ -1051,7 +1069,7 @@
         "foss": false
     },
     "obs": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "obs-studio",
         "content": "OBS Studio",
         "description": "OBS Studio is a free and open-source software for video recording and live streaming. It supports real-time video/audio capturing and mixing, making it popular among content creators.",
@@ -1060,7 +1078,7 @@
         "foss": true
     },
     "obsidian": {
-        "category": "Document",
+        "category": "文档",
         "choco": "obsidian",
         "content": "Obsidian",
         "description": "Obsidian is a powerful note-taking and knowledge management application.",
@@ -1069,7 +1087,7 @@
         "foss": false
     },
     "okular": {
-        "category": "Document",
+        "category": "文档",
         "choco": "okular",
         "content": "Okular",
         "description": "Okular is a versatile document viewer with advanced features.",
@@ -1078,7 +1096,7 @@
         "foss": true
     },
     "onedrive": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "onedrive",
         "content": "OneDrive",
         "description": "OneDrive is a cloud storage service provided by Microsoft, allowing users to store and share files securely across devices.",
@@ -1087,7 +1105,7 @@
         "foss": false
     },
     "onlyoffice": {
-        "category": "Document",
+        "category": "文档",
         "choco": "onlyoffice",
         "content": "ONLYOFFICE Desktop",
         "description": "ONLYOFFICE Desktop is a comprehensive office suite for document editing and collaboration.",
@@ -1096,7 +1114,7 @@
         "foss": true
     },
     "OPAutoClicker": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "autoclicker",
         "content": "OPAutoClicker",
         "description": "A full-fledged autoclicker with two modes of autoclicking, at your dynamic cursor location or at a prespecified location.",
@@ -1105,7 +1123,7 @@
         "foss": false
     },
     "openrgb": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "openrgb",
         "content": "OpenRGB",
         "description": "OpenRGB is an open-source RGB lighting control software designed to manage and control RGB lighting for various components and peripherals.",
@@ -1114,7 +1132,7 @@
         "foss": true
     },
     "OpenVPN": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "openvpn-connect",
         "content": "OpenVPN Connect",
         "description": "OpenVPN Connect is a VPN client that allows you to connect securely to a VPN server. It provides a secure and encrypted connection for protecting your online privacy.",
@@ -1123,7 +1141,7 @@
         "foss": false
     },
     "OVirtualBox": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "virtualbox",
         "content": "Oracle VirtualBox",
         "description": "Oracle VirtualBox is a powerful and free open-source virtualization tool for x86 and AMD64/Intel64 architectures.",
@@ -1132,7 +1150,7 @@
         "foss": true
     },
     "policyplus": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "na",
         "content": "Policy Plus",
         "description": "Local Group Policy Editor plus more, for all Windows editions.",
@@ -1141,7 +1159,7 @@
         "foss": true
     },
     "processexplorer": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "procexp",
         "content": "Process Explorer",
         "description": "Process Explorer is a task manager and system monitor.",
@@ -1150,7 +1168,7 @@
         "foss": false
     },
     "Paintdotnet": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "paint.net",
         "content": "Paint.NET",
         "description": "Paint.NET is a free image and photo editing software for Windows. It features an intuitive user interface and supports a wide range of powerful editing tools.",
@@ -1159,7 +1177,7 @@
         "foss": false
     },
     "parsec": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "parsec",
         "content": "Parsec",
         "description": "Parsec is a low-latency, high-quality remote desktop sharing application for collaborating and gaming across devices.",
@@ -1168,7 +1186,7 @@
         "foss": false
     },
     "peazip": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "peazip",
         "content": "PeaZip",
         "description": "PeaZip is a free, open-source file archiver utility that supports multiple archive formats and provides encryption features.",
@@ -1177,7 +1195,7 @@
         "foss": true
     },
     "pdf-xchange": {
-        "category": "Document",
+        "category": "文档",
         "choco": "pdfxchangeeditor",
         "content": "PDF-XChange Editor",
         "description": "A comprehensive Windows-based software suite and editor for creating, viewing, editing, annotating, and signing PDF files.",
@@ -1186,7 +1204,7 @@
         "foss": false
     },
     "pdf24creator": {
-        "category": "Document",
+        "category": "文档",
         "choco": "pdf24",
         "content": "PDF24 Creator",
         "description": "Free and easy-to-use online/desktop PDF tools that make you more productive",
@@ -1195,7 +1213,7 @@
         "foss": false
     },
     "pdfgear": {
-        "category": "Document",
+        "category": "文档",
         "choco": "pdfgear",
         "content": "PDFgear",
         "description": "PDFgear is a piece of full-featured PDF management software for Windows, macOS, and mobile, and it's completely free to use.",
@@ -1204,7 +1222,7 @@
         "foss": false
     },
     "pdfsam": {
-        "category": "Document",
+        "category": "文档",
         "choco": "pdfsam",
         "content": "PDFsam Basic",
         "description": "PDFsam Basic is a free and open-source tool for splitting, merging, and rotating PDF files.",
@@ -1213,7 +1231,7 @@
         "foss": true
     },
     "playnite": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "playnite",
         "content": "Playnite",
         "description": "Playnite is an open-source video game library manager with one simple goal: To provide a unified interface for all of your games.",
@@ -1222,7 +1240,7 @@
         "foss": true
     },
     "plex": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "plexmediaserver",
         "content": "Plex Media Server",
         "description": "Plex Media Server is a media server software that allows you to organize and stream your media library. It supports various media formats and offers a wide range of features.",
@@ -1231,7 +1249,7 @@
         "foss": false
     },
     "plexdesktop": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "plex",
         "content": "Plex Desktop",
         "description": "Plex Desktop for Windows is the front end for Plex Media Server.",
@@ -1240,7 +1258,7 @@
         "foss": false
     },
     "posh": {
-        "category": "Development",
+        "category": "开发",
         "choco": "oh-my-posh",
         "content": "Oh My Posh (Prompt)",
         "description": "Oh My Posh is a cross-platform prompt theme engine for any shell.",
@@ -1249,7 +1267,7 @@
         "foss": true
     },
     "postman": {
-        "category": "Development",
+        "category": "开发",
         "choco": "postman",
         "content": "Postman",
         "description": "Postman is an API platform and desktop client for designing, testing, documenting, and collaborating on APIs.",
@@ -1258,7 +1276,7 @@
         "foss": false
     },
     "powershell": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "powershell-core",
         "content": "PowerShell",
         "description": "PowerShell is a task automation framework and scripting language designed for system administrators, offering powerful command-line capabilities.",
@@ -1267,7 +1285,7 @@
         "foss": true
     },
     "powertoys": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "powertoys",
         "content": "PowerToys",
         "description": "PowerToys is a set of utilities for power users to enhance productivity, featuring tools like FancyZones, PowerRename, and more.",
@@ -1276,7 +1294,7 @@
         "foss": true
     },
     "prismlauncher": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "prismlauncher",
         "content": "Prism Launcher",
         "description": "Prism Launcher is an open-source Minecraft launcher with the ability to manage multiple instances, accounts, and mods.",
@@ -1285,7 +1303,7 @@
         "foss": true
     },
     "processlasso": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "plasso",
         "content": "Process Lasso",
         "description": "Process Lasso is a system optimization and automation tool that improves system responsiveness and stability by adjusting process priorities and CPU affinities.",
@@ -1294,7 +1312,7 @@
         "foss": false
     },
     "protonauth": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "protonauth",
         "content": "Proton Authenticator",
         "description": "2FA app from Proton to securely sync and backup 2FA codes.",
@@ -1303,7 +1321,7 @@
         "foss": true
     },
     "protonmail": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "protonmail",
         "content": "Proton Mail",
         "description": "Proton Mail is an end-to-end encrypted email service by Proton, protecting your privacy with zero-access encryption.",
@@ -1312,7 +1330,7 @@
         "foss": true
     },
     "protondrive": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "protondrive",
         "content": "Proton Drive",
         "description": "Proton Drive is an end-to-end encrypted Swiss vault for your files that protects your data.",
@@ -1321,7 +1339,7 @@
         "foss": true
     },
     "protonpass": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "protonpass",
         "content": "Proton Pass",
         "description": "Proton Pass is a cloud-based password manager with end-to-end encryption and unique email aliases.",
@@ -1330,7 +1348,7 @@
         "foss": true
     },
     "protonvpn": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "protonvpn",
         "content": "Proton VPN",
         "description": "Proton VPN is a no-logs VPN service that protects your privacy online with features like Secure Core and Tor over VPN.",
@@ -1339,7 +1357,7 @@
         "foss": true
     },
     "processmonitor": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "procexp",
         "content": "Process Monitor",
         "description": "SysInternals Process Monitor is an advanced monitoring tool that shows real-time file system, registry, and process/thread activity.",
@@ -1348,7 +1366,7 @@
         "foss": false
     },
     "putty": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "putty",
         "content": "PuTTY",
         "description": "PuTTY is a free and open-source terminal emulator, serial console, and network file transfer application. It supports various network protocols such as SSH, Telnet, and SCP.",
@@ -1357,7 +1375,7 @@
         "foss": true
     },
     "python3": {
-        "category": "Development",
+        "category": "开发",
         "choco": "python",
         "content": "Python3",
         "description": "Python is a versatile programming language used for web development, data analysis, artificial intelligence, and more.",
@@ -1366,7 +1384,7 @@
         "foss": true
     },
     "qbittorrent": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "qbittorrent",
         "content": "qBittorrent",
         "description": "qBittorrent is a free and open-source BitTorrent client that aims to provide a feature-rich and lightweight alternative to other torrent clients.",
@@ -1375,7 +1393,7 @@
         "foss": true
     },
     "qtox": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "qtox",
         "content": "QTox",
         "description": "QTox is a free and open-source messaging app that prioritizes user privacy and security in its design.",
@@ -1384,7 +1402,7 @@
         "foss": true
     },
     "revo": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "revo-uninstaller",
         "content": "Revo Uninstaller",
         "description": "Revo Uninstaller is an advanced uninstaller tool that helps you remove unwanted software and clean up your system.",
@@ -1393,7 +1411,7 @@
         "foss": false
     },
     "WiseProgramUninstaller": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "na",
         "content": "Wise Program Uninstaller (WiseCleaner)",
         "description": "Wise Program Uninstaller is the perfect solution for uninstalling Windows programs, allowing you to uninstall applications quickly and completely using its simple and user-friendly interface.",
@@ -1402,7 +1420,7 @@
         "foss": false
     },
     "rufus": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "rufus",
         "content": "Rufus Imager",
         "description": "Rufus is a utility that helps format and create bootable USB drives, such as USB keys or pen drives.",
@@ -1411,7 +1429,7 @@
         "foss": true
     },
     "rustlang": {
-        "category": "Development",
+        "category": "开发",
         "choco": "rust",
         "content": "Rust",
         "description": "Rust is a programming language designed for safety and performance, particularly focused on systems programming.",
@@ -1420,7 +1438,7 @@
         "foss": true
     },
     "sdio": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "sdio",
         "content": "Snappy Driver Installer Origin",
         "description": "Snappy Driver Installer Origin is a free and open-source driver updater with a vast driver database for Windows.",
@@ -1429,7 +1447,7 @@
         "foss": true
     },
     "sharex": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "sharex",
         "content": "ShareX (Screenshots)",
         "description": "ShareX is a free and open-source screen capture and file sharing tool. It supports various capture methods and offers advanced features for editing and sharing screenshots.",
@@ -1438,7 +1456,7 @@
         "foss": true
     },
     "nilesoftShell": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "nilesoft-shell",
         "content": "Nilesoft Shell",
         "description": "Shell is an expanded context menu tool that adds extra functionality and customization options to the Windows context menu.",
@@ -1447,7 +1465,7 @@
         "foss": false
     },
     "systeminformer": {
-        "category": "Development",
+        "category": "开发",
         "choco": "systeminformer",
         "content": "System Informer",
         "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
@@ -1456,7 +1474,7 @@
         "foss": true
     },
     "signal": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "signal",
         "content": "Signal",
         "description": "Signal is a privacy-focused messaging app that offers end-to-end encryption for secure and private communication.",
@@ -1465,7 +1483,7 @@
         "foss": true
     },
     "signalrgb": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "na",
         "content": "SignalRGB",
         "description": "SignalRGB lets you control and sync your favorite RGB devices with one free application.",
@@ -1474,7 +1492,7 @@
         "foss": false
     },
     "simplenote": {
-        "category": "Document",
+        "category": "文档",
         "choco": "simplenote",
         "content": "Simplenote",
         "description": "Simplenote is an easy way to keep notes, lists, ideas and more.",
@@ -1483,7 +1501,7 @@
         "foss": true
     },
     "simplewall": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "simplewall",
         "content": "Simplewall",
         "description": "Simplewall is a free and open-source firewall application for Windows. It allows users to control and manage the inbound and outbound network traffic of applications.",
@@ -1492,7 +1510,7 @@
         "foss": true
     },
     "slack": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "slack",
         "content": "Slack",
         "description": "Slack is a collaboration hub that connects teams and facilitates communication through channels, messaging, and file sharing.",
@@ -1501,7 +1519,7 @@
         "foss": false
     },
     "startallback": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "StartAllBack",
         "content": "StartAllBack",
         "description": "StartAllBack restores and improves Windows taskbar, Start menu, File Explorer, and shell UI behavior.",
@@ -1510,7 +1528,7 @@
         "foss": false
     },
     "starship": {
-        "category": "Development",
+        "category": "开发",
         "choco": "starship",
         "content": "Starship (Shell Prompt)",
         "description": "Starship is a fast, customizable, cross-platform prompt for PowerShell and other shells.",
@@ -1519,7 +1537,7 @@
         "foss": true
     },
     "steam": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "steam-client",
         "content": "Steam",
         "description": "Steam is a digital distribution platform for purchasing and playing video games, offering multiplayer gaming, video streaming, and more.",
@@ -1528,7 +1546,7 @@
         "foss": false
     },
     "roblox": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "na",
         "content": "Roblox",
         "description": "Roblox is a platform and game creation system that allows users to create and play games developed by the community.",
@@ -1537,7 +1555,7 @@
         "foss": false
     },
     "sublimetext": {
-        "category": "Development",
+        "category": "开发",
         "choco": "sublimetext4",
         "content": "Sublime Text",
         "description": "Sublime Text is a sophisticated text editor for code, markup, and prose.",
@@ -1546,7 +1564,7 @@
         "foss": false
     },
     "sumatra": {
-        "category": "Document",
+        "category": "文档",
         "choco": "sumatrapdf",
         "content": "Sumatra PDF",
         "description": "Sumatra PDF is a lightweight and fast PDF viewer with minimalistic design.",
@@ -1555,7 +1573,7 @@
         "foss": true
     },
     "sunshine": {
-        "category": "Selfhosted Tools",
+        "category": "自托管",
         "choco": "sunshine",
         "content": "Sunshine/GameStream Server",
         "description": "Sunshine is a GameStream server that allows you to remotely play PC games on Android devices, offering low-latency streaming.",
@@ -1564,7 +1582,7 @@
         "foss": true
     },
     "tcpview": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "tcpview",
         "content": "TCPView",
         "description": "SysInternals TCPView is a network monitoring tool that displays a detailed list of all TCP and UDP endpoints on your system.",
@@ -1573,7 +1591,7 @@
         "foss": false
     },
     "teams": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "microsoft-teams",
         "content": "Teams",
         "description": "Microsoft Teams is a collaboration platform that integrates with Office 365 and offers chat, video conferencing, file sharing, and more.",
@@ -1582,7 +1600,7 @@
         "foss": false
     },
     "teamviewer": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "teamviewer9",
         "content": "TeamViewer",
         "description": "TeamViewer is a popular remote access and support software that allows you to connect to and control remote devices.",
@@ -1591,7 +1609,7 @@
         "foss": false
     },
     "teamspeak3": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "teamspeak",
         "content": "TeamSpeak 3",
         "description": "TEAMSPEAK. YOUR TEAM. YOUR RULES. Use crystal clear sound to communicate with your teammates cross-platform with military-grade security, lag-free performance & unparalleled reliability and uptime.",
@@ -1600,7 +1618,7 @@
         "foss": false
     },
     "teamspeak6": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "na",
         "content": "TeamSpeak 6",
         "description": "TEAMSPEAK. YOUR TEAM. YOUR RULES. Use crystal clear sound to communicate with your teammates cross-platform with military-grade security, lag-free performance & unparalleled reliability and uptime.",
@@ -1609,7 +1627,7 @@
         "foss": false
     },
     "telegram": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "telegram",
         "content": "Telegram",
         "description": "Telegram is a cloud-based instant messaging app known for its security features, speed, and simplicity.",
@@ -1618,7 +1636,7 @@
         "foss": true
     },
     "terminal": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "microsoft-windows-terminal",
         "content": "Windows Terminal",
         "description": "Windows Terminal is a modern, fast, and efficient terminal application for command-line users, supporting multiple tabs, panes, and more.",
@@ -1627,7 +1645,7 @@
         "foss": true
     },
     "thunderbird": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "thunderbird",
         "content": "Thunderbird",
         "description": "Mozilla Thunderbird is a free and open-source email client, news client, and chat client with advanced features.",
@@ -1636,7 +1654,7 @@
         "foss": true
     },
     "betterbird": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "betterbird",
         "content": "Betterbird",
         "description": "Betterbird is a fork of Mozilla Thunderbird with additional features and bugfixes.",
@@ -1645,7 +1663,7 @@
         "foss": true
     },
     "tor": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "tor-browser",
         "content": "Tor Browser",
         "description": "Tor Browser is designed for anonymous web browsing, utilizing the Tor network to protect user privacy and security.",
@@ -1654,7 +1672,7 @@
         "foss": true
     },
     "totalcommander": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "TotalCommander",
         "content": "Total Commander",
         "description": "Total Commander is a file manager for Windows that provides a powerful and intuitive interface for file management.",
@@ -1663,7 +1681,7 @@
         "foss": false
     },
     "treesize": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "treesizefree",
         "content": "TreeSize Free",
         "description": "TreeSize Free is a disk space manager that helps you analyze and visualize the space usage on your drives.",
@@ -1672,7 +1690,7 @@
         "foss": false
     },
     "ttaskbar": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "translucenttb",
         "content": "TranslucentTB",
         "description": "TranslucentTB is a tool that allows you to customize the transparency of the Windows Taskbar.",
@@ -1681,7 +1699,7 @@
         "foss": true
     },
     "ubisoft": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "ubisoft-connect",
         "content": "Ubisoft Connect",
         "description": "Ubisoft Connect is Ubisoft's digital distribution and online gaming service, providing access to Ubisoft's games and services.",
@@ -1690,7 +1708,7 @@
         "foss": false
     },
     "ungoogled": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "ungoogled-chromium",
         "content": "Ungoogled Chromium",
         "description": "Ungoogled Chromium is a version of Chromium without Google's integration for enhanced privacy and control.",
@@ -1699,7 +1717,7 @@
         "foss": true
     },
     "unity": {
-        "category": "Development",
+        "category": "开发",
         "choco": "unityhub",
         "content": "Unity Game Engine",
         "description": "Unity is a powerful game development platform for creating 2D, 3D, augmented reality, and virtual reality games.",
@@ -1708,7 +1726,7 @@
         "foss": false
     },
     "vagrant": {
-        "category": "Development",
+        "category": "开发",
         "choco": "vagrant",
         "content": "Vagrant",
         "description": "Vagrant builds and manages reproducible virtual machine development environments from declarative configuration.",
@@ -1717,7 +1735,7 @@
         "foss": false
     },
     "everything": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "everything",
         "content": "Everything",
         "description": "Everything is a search engine that locates files and folders by filename instantly for Windows. Unlike Windows search Everything initially displays every file and folder on your computer (hence the name Everything). You type in a search filter to limit what files and folders are displayed.",
@@ -1726,7 +1744,7 @@
         "foss": false
     },
     "vc2015_32": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "vcredist2015",
         "content": "Visual C++ 2015-2022 32-bit",
         "description": "Visual C++ 2015-2022 32-bit redistributable package installs runtime components of Visual C++ libraries required to run 32-bit applications.",
@@ -1735,7 +1753,7 @@
         "foss": false
     },
     "vc2015_64": {
-        "category": "Microsoft Tools",
+        "category": "微软工具",
         "choco": "vcredist2015",
         "content": "Visual C++ 2015-2022 64-bit",
         "description": "Visual C++ 2015-2022 64-bit redistributable package installs runtime components of Visual C++ libraries required to run 64-bit applications.",
@@ -1744,7 +1762,7 @@
         "foss": false
     },
     "ventoy": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "ventoy",
         "content": "Ventoy",
         "description": "Ventoy is an open-source tool for creating bootable USB drives. It supports multiple ISO files on a single USB drive, making it a versatile solution for installing operating systems.",
@@ -1753,7 +1771,7 @@
         "foss": true
     },
     "vesktop": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "na",
         "content": "Vesktop",
         "description": "A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.",
@@ -1762,7 +1780,7 @@
         "foss": true
     },
     "viber": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "viber",
         "content": "Viber",
         "description": "Viber is a free messaging and calling app with features like group chats, video calls, and more.",
@@ -1771,7 +1789,7 @@
         "foss": false
     },
     "visualstudio2022": {
-        "category": "Development",
+        "category": "开发",
         "choco": "visualstudio2022community",
         "content": "Visual Studio 2022",
         "description": "Visual Studio 2022 is an integrated development environment (IDE) for building, debugging, and deploying applications.",
@@ -1780,7 +1798,7 @@
         "foss": false
     },
     "visualstudio2026": {
-        "category": "Development",
+        "category": "开发",
         "choco": "visualstudio2026community",
         "content": "Visual Studio 2026",
         "description": "Visual Studio 2026 is an integrated development environment (IDE) for building, debugging, and deploying applications.",
@@ -1789,7 +1807,7 @@
         "foss": false
     },
     "vivaldi": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "vivaldi",
         "content": "Vivaldi",
         "description": "Vivaldi is a highly customizable web browser with a focus on user personalization and productivity features.",
@@ -1798,7 +1816,7 @@
         "foss": false
     },
     "vlc": {
-        "category": "Multimedia Tools",
+        "category": "多媒体",
         "choco": "vlc",
         "content": "VLC (Video Player)",
         "description": "VLC Media Player is a free and open-source multimedia player that supports a wide range of audio and video formats. It is known for its versatility and cross-platform compatibility.",
@@ -1807,7 +1825,7 @@
         "foss": true
     },
     "vrdesktopstreamer": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "na",
         "content": "Virtual Desktop Streamer",
         "description": "Virtual Desktop Streamer is a tool that allows you to stream your desktop screen to VR devices.",
@@ -1816,7 +1834,7 @@
         "foss": false
     },
     "vscode": {
-        "category": "Development",
+        "category": "开发",
         "choco": "vscode",
         "content": "VS Code",
         "description": "Visual Studio Code is a free, open-source code editor with support for multiple programming languages.",
@@ -1825,7 +1843,7 @@
         "foss": true
     },
     "vscodium": {
-        "category": "Development",
+        "category": "开发",
         "choco": "vscodium",
         "content": "VS Codium",
         "description": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code.",
@@ -1834,7 +1852,7 @@
         "foss": true
     },
     "waterfox": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "waterfox",
         "content": "Waterfox",
         "description": "Waterfox is a fast, privacy-focused web browser based on Firefox, designed to preserve user choice and privacy.",
@@ -1843,7 +1861,7 @@
         "foss": true
     },
     "whatsapp": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "na",
         "content": "WhatsApp Desktop",
         "description": "WhatsApp Desktop is the official Windows desktop messaging app from Meta, distributed through the Microsoft Store.",
@@ -1852,7 +1870,7 @@
         "foss": false
     },
     "wingetui": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "wingetui",
         "content": "UniGetUI",
         "description": "UniGetUI is a GUI for WinGet, Chocolatey, and other Windows CLI package managers.",
@@ -1861,7 +1879,7 @@
         "foss": true
     },
     "winrar": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "winrar",
         "content": "WinRAR",
         "description": "WinRAR is a powerful archive manager that allows you to create, manage, and extract compressed files.",
@@ -1870,7 +1888,7 @@
         "foss": false
     },
     "winscp": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "winscp",
         "content": "WinSCP",
         "description": "WinSCP is a popular open-source SFTP, FTP, and SCP client for Windows. It allows secure file transfers between a local and a remote computer.",
@@ -1879,7 +1897,7 @@
         "foss": true
     },
     "wireguard": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "wireguard",
         "content": "WireGuard",
         "description": "WireGuard is a fast and modern VPN (Virtual Private Network) protocol. It aims to be simpler and more efficient than other VPN protocols, providing secure and reliable connections.",
@@ -1888,7 +1906,7 @@
         "foss": true
     },
     "wireshark": {
-        "category": "Pro Tools",
+        "category": "专业工具",
         "choco": "wireshark",
         "content": "Wireshark",
         "description": "Wireshark is a widely-used open-source network protocol analyzer. It allows users to capture and analyze network traffic in real-time, providing detailed insights into network activities.",
@@ -1897,7 +1915,7 @@
         "foss": true
     },
     "wiztree": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "wiztree",
         "content": "WizTree",
         "description": "WizTree is a fast disk space analyzer that helps you quickly find the files and folders consuming the most space on your hard drive.",
@@ -1906,7 +1924,7 @@
         "foss": false
     },
     "xeheditor": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "HxD",
         "content": "HxD Hex Editor",
         "description": "HxD is a free hex editor that allows you to edit, view, search, and analyze binary files.",
@@ -1915,7 +1933,7 @@
         "foss": false
     },
     "xournal": {
-        "category": "Document",
+        "category": "文档",
         "choco": "xournalplusplus",
         "content": "Xournal++",
         "description": "Xournal++ is an open-source handwriting notetaking software with PDF annotation capabilities.",
@@ -1924,7 +1942,7 @@
         "foss": true
     },
     "yarn": {
-        "category": "Development",
+        "category": "开发",
         "choco": "yarn",
         "content": "Yarn",
         "description": "Yarn is a fast, reliable, and secure dependency management tool for JavaScript projects.",
@@ -1933,7 +1951,7 @@
         "foss": true
     },
     "zoom": {
-        "category": "Communications",
+        "category": "通讯",
         "choco": "zoom",
         "content": "Zoom",
         "description": "Zoom is a popular video conferencing and web conferencing service for online meetings, webinars, and collaborative projects.",
@@ -1942,7 +1960,7 @@
         "foss": false
     },
     "uv": {
-        "category": "Development",
+        "category": "开发",
         "choco": "uv",
         "content": "uv",
         "description": "uv is a fast Python package and project manager written in Rust.",
@@ -1951,7 +1969,7 @@
         "foss": true
     },
     "tightvnc": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "TightVNC",
         "content": "TightVNC",
         "description": "TightVNC is a free and open-source remote desktop software that lets you access and control a computer over the network. With its intuitive interface, you can interact with the remote screen as if you were sitting in front of it. You can open files, launch applications, and perform other actions on the remote desktop almost as if you were physically there.",
@@ -1960,7 +1978,7 @@
         "foss": true
     },
     "glazewm": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "glazewm",
         "content": "GlazeWM",
         "description": "GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.",
@@ -1969,7 +1987,7 @@
         "foss": true
     },
     "Overwolf": {
-        "category": "Games",
+        "category": "游戏",
         "choco": "overwolf",
         "content": "Overwolf",
         "description": "Popular platform for game overlays and companion apps (mod managers, trackers, etc.), widely used by gamers.",
@@ -1978,7 +1996,7 @@
         "foss": false
     },
     "OFGB": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "ofgb",
         "content": "OFGB (Oh Frick Go Back)",
         "description": "GUI Tool to remove ads from various places around Windows 11",
@@ -1987,7 +2005,7 @@
         "foss": true
     },
     "ZenBrowser": {
-        "category": "Browsers",
+        "category": "浏览器",
         "choco": "zen-browser",
         "content": "Zen Browser",
         "description": "The modern, privacy-focused, performance-driven browser built on Firefox.",
@@ -1996,7 +2014,7 @@
         "foss": true
     },
     "Zed": {
-        "category": "Development",
+        "category": "开发",
         "choco": "zed",
         "content": "Zed",
         "description": "Zed is a modern, high-performance code editor designed from the ground up for speed and collaboration.",
@@ -2005,7 +2023,7 @@
         "foss": true
     },
     "zotero": {
-        "category": "Document",
+        "category": "文档",
         "choco": "zotero",
         "content": "Zotero",
         "description": "Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research materials.",
@@ -2014,7 +2032,7 @@
         "foss": true
     },
     "deskflow": {
-        "category": "Utilities",
+        "category": "实用工具",
         "choco": "deskflow",
         "content": "Deskflow",
         "description": "Deskflow is a free and open-source software KVM that lets you share a single keyboard and mouse across multiple computers.",
@@ -2023,7 +2041,7 @@
         "foss": true
     },
     "Ruby": {
-        "category": "Development",
+        "category": "开发",
         "choco": "ruby",
         "winget": "RubyInstallerTeam.Ruby.4.0",
         "description": "A Ruby language execution environment with a MSYS2 installation.",
@@ -2032,7 +2050,7 @@
         "foss": true
     },
     "Lua": {
-        "category": "Development",
+        "category": "开发",
         "choco": "lua",
         "winget": "rjpcomputing.luaforwindows",
         "description": "A 'batteries included environment' for the Lua scripting language on Windows.",

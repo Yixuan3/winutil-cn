@@ -9,6 +9,7 @@ BeforeAll {
     . (Join-Path $script:repoRoot "functions\private\Test-WinUtilPackageManager.ps1")
     . (Join-Path $script:repoRoot "functions\private\Install-WinUtilProgramWinget.ps1")
     . (Join-Path $script:repoRoot "functions\private\Install-WinUtilProgramChoco.ps1")
+    . (Join-Path $script:repoRoot "functions\private\Get-WinUtilInstallLocation.ps1")
 
     function Invoke-WPFUIThread { }
     function Write-WinUtilLog { }

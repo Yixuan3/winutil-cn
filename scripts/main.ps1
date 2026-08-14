@@ -1,4 +1,4 @@
-Write-Host @"
+﻿Write-Host @"
     CCCCCCCCCCCCCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
  CCC::::::::::::CT:::::::::::::::::::::TT:::::::::::::::::::::T
 CC:::::::::::::::CT:::::::::::::::::::::TT:::::::::::::::::::::T
@@ -357,16 +357,16 @@ $sync["SearchBar"].Add_TextChanged({
 # Category filter chips. The chip carries its category in Tag, so one handler covers all of them.
 $sync.AppCategoryChips = @(
     @{ Name = "WPFSearchChipAll";             Category = "" }
-    @{ Name = "WPFSearchChipBrowsers";        Category = "Browsers" }
-    @{ Name = "WPFSearchChipCommunications";  Category = "Communications" }
-    @{ Name = "WPFSearchChipDevelopment";     Category = "Development" }
-    @{ Name = "WPFSearchChipDocument";        Category = "Document" }
-    @{ Name = "WPFSearchChipGames";           Category = "Games" }
-    @{ Name = "WPFSearchChipMicrosoftTools";  Category = "Microsoft Tools" }
-    @{ Name = "WPFSearchChipMultimediaTools"; Category = "Multimedia Tools" }
-    @{ Name = "WPFSearchChipProTools";        Category = "Pro Tools" }
-    @{ Name = "WPFSearchChipSelfhostedTools"; Category = "Selfhosted Tools" }
-    @{ Name = "WPFSearchChipUtilities";       Category = "Utilities" }
+    @{ Name = "WPFSearchChipBrowsers";        Category = "浏览器" }
+    @{ Name = "WPFSearchChipCommunications";  Category = "通讯" }
+    @{ Name = "WPFSearchChipDevelopment";     Category = "开发" }
+    @{ Name = "WPFSearchChipDocument";        Category = "文档" }
+    @{ Name = "WPFSearchChipGames";           Category = "游戏" }
+    @{ Name = "WPFSearchChipMicrosoftTools";  Category = "微软工具" }
+    @{ Name = "WPFSearchChipMultimediaTools"; Category = "多媒体" }
+    @{ Name = "WPFSearchChipProTools";        Category = "专业工具" }
+    @{ Name = "WPFSearchChipSelfhostedTools"; Category = "自托管" }
+    @{ Name = "WPFSearchChipUtilities";       Category = "实用工具" }
 )
 $sync.SelectedAppCategories = [System.Collections.Generic.List[string]]::new()
 

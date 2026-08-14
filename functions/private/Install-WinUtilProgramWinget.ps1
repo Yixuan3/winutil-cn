@@ -21,6 +21,14 @@ Function Install-WinUtilProgramWinget {
 
         if ($Action -eq 'Install') {
             $arguments = @("install", "--id", $program, "--accept-package-agreements", "--accept-source-agreements", "--source", $source, "--silent")
+
+            # Optional custom install directory, configured via "installLocation" in config/applications.json.
+            # Only forwarded when the user configured one; winget ignores it for packages that do not support it.
+            $installLocation = Get-WinUtilInstallLocation -WingetId $program
+            if ($installLocation) {
+                Write-WinUtilLog -Component "Package" -Message "Using custom install location for ${program}: $installLocation"
+                $arguments += @("--location", "`"$installLocation`"")
+            }
         } else {
             $arguments = @("uninstall", "--id", $program, "--source", $source, "--silent")
         }

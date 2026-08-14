@@ -1,4 +1,4 @@
-function Invoke-WPFTab {
+﻿function Invoke-WPFTab {
 
     <#
 
@@ -27,7 +27,16 @@ function Invoke-WPFTab {
             $sync["$ClickedTab"].IsChecked = $true
         }
     }
-    $sync.currentTab = $sync.$tabNav.Items[$tabNumber].Header
+    # Header is localized (e.g. "配置"); map it back to the internal logical name so
+    # Initialize-WinUtilTabContent and all `currentTab -eq "Install"/"Tweaks"/...` checks keep working.
+    $tabHeader = $sync.$tabNav.Items[$tabNumber].Header
+    $sync.currentTab = switch ($tabHeader) {
+        "安装" { "Install" }
+        "优化" { "Tweaks" }
+        "配置" { "Config" }
+        "更新" { "Updates" }
+        default { $tabHeader }
+    }
     Initialize-WinUtilTabContent -TabName $sync.currentTab
 
     # Always reset the filter for the current tab

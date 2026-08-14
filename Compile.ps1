@@ -39,7 +39,8 @@ $script += "`$WinUtilAutounattendXml = @'`r`n$autounattendXml`r`n'@"
 
 $script += Get-Content -Path scripts\main.ps1 -Raw
 
-Set-Content -Path winutil.ps1 -Value $script
+# UTF8 (with BOM) so Chinese strings decode correctly on any PowerShell version
+Set-Content -Path winutil.ps1 -Value $script -Encoding UTF8
 
 if ($Run) {
     .\Winutil.ps1

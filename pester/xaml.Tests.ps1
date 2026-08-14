@@ -1,4 +1,4 @@
-#===========================================================================
+﻿#===========================================================================
 # Tests - XAML Control Wiring
 #===========================================================================
 
@@ -182,21 +182,21 @@ Describe "XAML document" {
 
     It "wires the Document search chip to an existing Document category" {
         $mainScript = Get-Content -Path $script:mainScriptPath -Raw
-        $mainScript | Should -Match '@\{ Name = "WPFSearchChipDocument";\s+Category = "Document" \}'
+        $mainScript | Should -Match '@\{ Name = "WPFSearchChipDocument";\s+Category = "文档" \}'
         $mainScript | Should -Match '\$sync\["WPFSearchChipDocument"\]\.Add_Click\(\{ Invoke-WinUtilAppCategoryChip -Chip \$this \}\)'
 
         $applications = Get-WinUtilConfigObject -Name "applications"
         $categories = @($applications.PSObject.Properties | ForEach-Object { $_.Value.category } | Sort-Object -Unique)
-        $categories | Should -Contain "Document"
+        $categories | Should -Contain "文档"
     }
 
     It "presents the three Updates profiles with accurate action labels" {
         $updatesTab = $script:xaml.SelectSingleNode('//*[local-name()="TabItem"][@Name="WPFTab4"]')
         $profileGrid = $updatesTab.SelectSingleNode('.//*[local-name()="UniformGrid"]')
         $expectedButtons = @{
-            WPFUpdatessecurity = "Apply Recommended"
-            WPFUpdatesdefault = "Restore Defaults"
-            WPFUpdatesdisable = "Disable Updates"
+            WPFUpdatessecurity = "应用推荐"
+            WPFUpdatesdefault = "恢复默认"
+            WPFUpdatesdisable = "禁用更新"
         }
 
         $profileGrid.GetAttribute("Columns") | Should -Be "3"
@@ -246,10 +246,10 @@ Describe "XAML document" {
         $tabItems = @($script:xaml.SelectNodes('//*[local-name()="TabControl"][@Name="WPFTabNav"]/*[local-name()="TabItem"]'))
         $actualTabs = @($tabItems | ForEach-Object { "$($_.GetAttribute("Name")):$($_.GetAttribute("Header"))" })
         $expectedTabs = @(
-            "WPFTab1:Install",
-            "WPFTab2:Tweaks",
-            "WPFTab3:Config",
-            "WPFTab4:Updates",
+            "WPFTab1:安装",
+            "WPFTab2:优化",
+            "WPFTab3:配置",
+            "WPFTab4:更新",
             "WPFTab5:Win11ISO",
             "WPFTab6:AppX"
         )
@@ -277,7 +277,7 @@ Describe "XAML document" {
         $tabSource = Get-Content -Path (Join-Path $script:functionRoot "public\Invoke-WPFTab.ps1") -Raw
 
         $navPanel.SelectSingleNode('./*[local-name()="ToggleButton"][@Name="WPFTab6BT"]') | Should -BeNullOrEmpty
-        $openButton.GetAttribute("Content").Trim() | Should -Be "AppX Removal"
+        $openButton.GetAttribute("Content").Trim() | Should -Be "AppX 移除"
         $openAppxIndex | Should -Be ($getInstalledIndex + 1)
         $appxTab.SelectSingleNode('.//*[local-name()="Button"][@Name="WPFBackToTweaks"]') | Should -Not -BeNullOrEmpty
         $appxTab.SelectSingleNode('.//*[local-name()="Button"][@Name="WPFInstallSelectedAppx"]') | Should -Not -BeNullOrEmpty
