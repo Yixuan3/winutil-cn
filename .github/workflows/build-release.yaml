@@ -41,7 +41,7 @@ jobs:
           if ($errs.Count -gt 0) { throw "Compiled winutil.ps1 has $($errs.Count) syntax errors" }
 
       - name: Upload compiled artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: winutil-cn
           path: winutil.ps1
